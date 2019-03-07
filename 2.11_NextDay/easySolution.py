@@ -4,8 +4,9 @@ def next_day(month, day):
   if month == 12 and day == 31:
     month = 1
     day = 1
-  elif (month == 2 and day == 28) or (month == months_30 and day == 30) or (month == months_31 and day == 31):
+  elif (month == 2 and day == 28) or (month in months_30 and day == 30) or (month in months_31 and day == 31):
     month = month + 1 
     day = 1
+  else:
+      day = day + 1
   return str(month) + "/" + str(day)
-
