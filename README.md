@@ -9,3 +9,6 @@ All of the code should be here
 ```
 2. ^^ Copy and paste
 3. Profit
+
+## Requests
+Just make an issue and I'll add in whatever code
