@@ -1,7 +1,7 @@
 # Welcome!
 Here you will find repl.it c0de! :smiley:
 
-All of the code should be here :yum:	
+All of the C0de should work perfectly! :yum:	
 
 ## Instructions
 1. Find the lesson (by name) and open it
