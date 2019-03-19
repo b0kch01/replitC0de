@@ -4,7 +4,9 @@ Here you will find repl.it c0de! :smiley:
 All of the C0de should work perfectly! :yum:	
 
 ## Instructions
-1. Find the lesson (by lesson # or name) and open it
+1. Find the lesson (by lesson # or name) and open it.
+- Some code will be placed in folders.
+- Click on it and you will find the code inside.
 ```
 [Ctrl] + C
 [Ctrl] + V
