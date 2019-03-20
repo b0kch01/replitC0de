@@ -7,6 +7,9 @@ All of the C0de should work perfectly! :yum:
 1. Find the lesson (by lesson # or name) and open it.
 - Some code will be placed in folders.
 - Click on it and you will find the code inside.
+
+(images/download.png)
+
 ```
 [Ctrl] + C
 [Ctrl] + V
