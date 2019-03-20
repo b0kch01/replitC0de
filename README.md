@@ -7,7 +7,7 @@ All of the C0de should work perfectly! :yum:
 1. Find the lesson (by lesson # or name) and open it.
 - Some code will be placed in folders.
 - Click on it and you will find the code inside.
-- Select **ALL** of the code.
+- Select **ALL** of the code you **NEED**.
 <img src="images/Github-Copy.png" width="500">
 
 ```
@@ -21,6 +21,6 @@ All of the C0de should work perfectly! :yum:
 Just make an issue and I'll add in whatever code
 
 ## Disclaimer
-I am **__not__** associated with any people who misuse this code. 
+I am __not__ associated with any people who misuse this code. 
 
 I recommend going through the code before copying. :unamused:
