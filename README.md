@@ -8,7 +8,7 @@ All of the C0de should work perfectly! :yum:
 - Some code will be placed in folders.
 - Click on it and you will find the code inside.
 
-(images/download.png)
+<img src="images/Github-Copy.png" width="600">
 
 ```
 [Ctrl] + C
