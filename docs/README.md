@@ -5,7 +5,7 @@ All of the C0de should work perfectly! :yum:
 
 ## Instructions
 1. Find the lesson (by lesson # or name) and open it.
-- Some code will be placed in folders.
+- Some code will be placed in folders. So if you can't find yours, scroll to the top
 - Click on it and you will find the code inside.
 - Select **ALL** of the code you **NEED**.
 <img src="images/Github-Copy.png" width="500">
