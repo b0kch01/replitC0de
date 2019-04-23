@@ -1,7 +1,3 @@
-a = 0
-b = 0
-c = 0
-d = 0
 scoresList = [0, 0, 0, 0]
 
 optionList = ["Blazing", "Hot", "Cold", "Freezing"]
