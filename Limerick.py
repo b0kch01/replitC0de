@@ -1,6 +1,4 @@
 import random
-import replit
-replit.clear() # Clear the output screen
 
 def get_num():
     print("Enter 4 numbers (spelled out)")
@@ -59,4 +57,3 @@ def main():
         print_poem(rand_list) # Run the print poem function with the list of random words (chosen from the list of answers ^)
 
 main() # actually run the program ^
-replit.clear() # When done, the whole thing clears (optional)
