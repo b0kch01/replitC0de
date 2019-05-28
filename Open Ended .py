@@ -1,7 +1,3 @@
-# OPEN_ENDED // Nathan Choi // 5/28/2019
-# Ask the user for two inputs, string and number
-# Then, print out a "stacked" string and a boolean.
-
 def stack_it(input_string):
     stacked_string = ""
     for letter in input_string:
@@ -12,9 +8,8 @@ def only_3s(input_number):
     return True if input_number%3==0 else False
 
 def client_code():
-    client_number = input("Give a number: ") # Ask user for a number
-    client_string = input("Give some letters: ") # Ask user for some string
-    # Error check for correct value types
+    client_number = input("Give a number: ")
+    client_string = input("Give some letters: ")
     try:
         client_number = int(client_number)
     except:
