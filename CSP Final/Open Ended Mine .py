@@ -8,7 +8,7 @@
 def stack_it(input_string):
     return "".join([letter + "\n" for letter in input_string])
 def only_3s(input_number):
-    return True if input_number%3==0 else False
+    return input_number%3==0
 def client_code():
     client_num = int(input("Enter an integer: "));client_str = input("Enter something: ");answer = ["Your number is a multiple of 3." if only_3s(client_num) else "Your number is not a multiple of 3.", stack_it(client_str)];print("\nAnswers: \n---------------\n" + answer[0] + "\n" + "Here is your stack: \n\n" + answer[1])
 
