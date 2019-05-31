@@ -1,7 +1,7 @@
 # Welcome!
-Here you will find repl.it c0de! :smiley:
+Here you will find all of the assignments of 2018-2019 school year! :smiley:
 
-All of the C0de should work perfectly! :yum:	
+All of the C0de should work because I have tested them! :yum:	
 
 ## Instructions
 1. Find the lesson (by lesson # or name) and open it.
@@ -15,7 +15,7 @@ All of the C0de should work perfectly! :yum:
 [Ctrl] + V
 ```
 2. ^^ Copy and paste
-3. Profit :heart_eyes:
+3. Profit $
 
 ## Requests
 Just make an issue and I'll add in whatever code
